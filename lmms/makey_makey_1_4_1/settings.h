@@ -43,7 +43,7 @@ int keyCodes[NUM_INPUTS] = {
   ':',    // pin A3
   'm',    // pin A2 (; instead of m for azerty keyboard mismatch)
   '!',    // pin A1
-  'r'     // pin A0 (' instead of ù for azerty keyboard mismatch)
+  '\''     // pin A0 (' instead of ù for azerty keyboard mismatch)
 };
 
 

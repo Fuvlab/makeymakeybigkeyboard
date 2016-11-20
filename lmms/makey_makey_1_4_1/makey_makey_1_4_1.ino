@@ -46,6 +46,9 @@
 #define MOUSE_MOVE_RIGHT    -4
 
 #include "settings.h"
+#include "Keyboard.h"
+#include "Mouse.h"
+
 
 /////////////////////////
 // STRUCT ///////////////
